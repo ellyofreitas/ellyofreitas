@@ -8,6 +8,7 @@ I'm a specialist solutions architect and services developer focused on cloud ser
 - ⚒ Developer with good practices such as clean code, clean architecture, TDD and SOLID;
 - ⚡️ Serverless Computing Enthusiast;
 - 📜 AWS Solutions Archictect Associate Certified;
+- 🐢 Node.js Services Developer (JSNSD) Certified;
 
 
 
