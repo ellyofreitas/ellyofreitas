@@ -2,7 +2,7 @@
 
 [![wakatime](https://wakatime.com/badge/user/2a2bbd4d-1b6c-42d1-98d2-d96a1e15b05d.svg)](https://wakatime.com/@2a2bbd4d-1b6c-42d1-98d2-d96a1e15b05d)
 
-I'm a specialist solutions architect and services developer focused on cloud services, software architecture and serverless and containered infrastructure;
+I'm a specialist solutions architect and services developer focused on cloud services, software architecture, serverless and containered infrastructure;
 - 🔭 Currently working on [Grupo Boticário](https://github.com/grupoboticario), developing services for the cloud, using AWS, and extracting the maximum performance of Node.js;
 - 🤝 I’m available for freelancing;
 - ⚒ Developer with good practices such as clean code, clean architecture, TDD and SOLID;
